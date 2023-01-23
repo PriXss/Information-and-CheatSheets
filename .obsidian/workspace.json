@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ea5f1bb5e397407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beispiel NginX Conf Loadbalancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f56332e111c8189e",
+  "active": "1ea5f1bb5e397407",
   "lastOpenFiles": [
+    "Beispiel Docker Compose Services.md",
+    "Beispiel NginX Conf Loadbalancing.md",
     "Bachelorthemen.md"
   ]
 }

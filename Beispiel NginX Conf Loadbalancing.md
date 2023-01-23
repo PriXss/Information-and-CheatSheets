@@ -2,7 +2,6 @@
 ## Beispiel NginX Config
 
 ```bash
-
 # Reference: https://www.nginx.com/resources/wiki/start/topics/examples/full/
 
 worker_processes 4;
