@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f56332e111c8189e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beispiel NginX Conf Loadbalancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelorthemen.md",
+                "file": "Beispiel NginX Conf Loadbalancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelorthemen.md",
+                "file": "Beispiel NginX Conf Loadbalancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bachelorthemen.md"
+                "file": "Beispiel NginX Conf Loadbalancing.md"
               }
             }
           }
@@ -146,6 +159,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ebe375bd613b0d1",
-  "lastOpenFiles": []
+  "active": "f56332e111c8189e",
+  "lastOpenFiles": [
+    "Bachelorthemen.md"
+  ]
 }
